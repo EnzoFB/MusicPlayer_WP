@@ -2,7 +2,7 @@
 
 ## Music Player avec WallpaperEngine
 
-![Test](preview.jpg)
+![Test](preview2.png)
 
 Enregistrer les musiques et les vidéos que l'on souhaite dans leurs dossiers respectifs "./assets/Musics/" et "./assets/Videos/".
 
